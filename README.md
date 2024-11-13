@@ -12,3 +12,5 @@ This project is designed to provide an in-depth analysis of product data sourced
 By completing this project, reviewers will gain a comprehensive understanding of the logic and formulas used in the data analysis, leading to more informed decisions regarding product pricing and stock management on the Lazada platform.
 
 More Details? [Please Click Here](https://docs.google.com/spreadsheets/d/1IDEG6phC6_5HwXfHwsYvU866TAWmXVVU/edit?usp=sharing&ouid=101876597748059596946&rtpof=true&sd=true)
+
+![image](https://github.com/user-attachments/assets/13ccf447-bbb9-4f7c-9353-ece70bb0d824)
